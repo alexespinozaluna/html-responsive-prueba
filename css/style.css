@@ -24,8 +24,8 @@ body{
 }
 
 .btn-primary {
-    color: white;
-    background-color: #0F2620;
+    color: azure;
+    background-color: #071512;
 }
 
 .btn-secondary {
@@ -174,8 +174,7 @@ border-radius: 0.3em;
 @media (min-width:576px) {
     .nosotros-col-img{
         height: 31.25em;
-    }
-    
+    }    
 }
 @media (min-width:768px) {
     .nosotros{
